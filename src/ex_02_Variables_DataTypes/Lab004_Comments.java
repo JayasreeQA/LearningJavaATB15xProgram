@@ -7,6 +7,8 @@ public class Lab004_Comments {
 
 //   This is a single line comment
 // this code will not execute
+// CTRL+/
 
+        /* Shift +CTRL + /   */
 }
 }

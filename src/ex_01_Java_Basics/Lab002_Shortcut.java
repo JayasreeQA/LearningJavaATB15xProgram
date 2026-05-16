@@ -6,5 +6,6 @@ public class Lab002_Shortcut {
 
     static void main() {
         System.out.println("hey I am practicing the short cuts like main,sout ");
+
     }
 }
